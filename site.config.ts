@@ -14,10 +14,10 @@ export default siteConfig({
   author: 'Jenny',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Notion sync',
 
   // social usernames (optional)
-  github: 'Daytoy-duan',
+  // github: 'Daytoy-duan',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
